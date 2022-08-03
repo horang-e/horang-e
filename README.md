@@ -24,6 +24,6 @@
       <a href="https://www.instagram.com/seofantasy_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> </a>
       <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=rmsid1000@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> </a>
       </br>
-      ![horang-e's github stats](https://github-readme-stats.vercel.app/api?username=horang-e&show_icons=true)
+    [![horang-e's GitHub stats](https://github-readme-stats.vercel.app/api?username=horang-e)](https://github.com/anuraghazra/github-readme-stats)
 
       
