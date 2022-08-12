@@ -31,5 +31,6 @@
    
    
 
-      ![슬라이드12](https://user-images.githubusercontent.com/105104335/184386369-ad7cd445-2e95-4951-bb40-7781eb68d9a5.png)
+    <img src="https://user-images.githubusercontent.com/105104335/184386369-ad7cd445-2e95-4951-bb40-7781eb68d9a5.png" width="100%"/>
+
 
