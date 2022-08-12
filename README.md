@@ -1,4 +1,5 @@
 <img src="https://user-images.githubusercontent.com/105104335/182674829-fd84b4c2-addf-4e2d-9b43-b852bb38f64b.png" width="100%"/>
+
    <br/>
 <h3 align="center">🛠Tech Stack🛠</h3>
 <h4 align="center">Techs that I've used at least once</h4>
@@ -29,8 +30,9 @@
       
    ![horang-e's GitHub stats](https://github-readme-stats.vercel.app/api?username=horang-e&hide=contribs,prs&bg_color=657FA6&text_color=FFFFFF&title_color=FFFFFF)
    
-   
+   ![슬라이드4](https://user-images.githubusercontent.com/105104335/184386997-1295f9c9-2fd9-4f56-b271-a6d34c55c87c.png)
 
-    <img src="https://user-images.githubusercontent.com/105104335/184386369-ad7cd445-2e95-4951-bb40-7781eb68d9a5.png" width="100%"/>
+    
 
+![슬라이드12](https://user-images.githubusercontent.com/105104335/184387076-a3807f2f-7370-4631-8a8e-7c548167bb51.png)
 
