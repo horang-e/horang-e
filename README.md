@@ -7,7 +7,9 @@
 <div align=center> 
       <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
       <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
-      <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
+      <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/typescript-3178C6E?style=for-the-badge&logo=typescript&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=black"/> 
   <br/>
    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>  
    <img src="https://img.shields.io/badge/reactnative-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>  
@@ -19,8 +21,8 @@
    <h3 align="center">🐯About Me🐯</h3>
    <br/>
    반갑습니다🙇‍♀️<br/>
-   프론트엔드를 공부하고 있는 최서현입니다! <br/>
-   빠르게 습득하고 뭐든 배우려는 자세로 개발에 임하고있습니다.<br/>
+   프론트엔드 주니어 개발자 최서현입니다! <br/>
+  <br/>
     <br/> 
    <div align=center> 
       <a href="https://velog.io/@horang-e"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a> 
@@ -28,13 +30,9 @@
       <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=rmsid1000@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/> </a>
       </br></div>
       </br></br>
-      
-      
-   ![horang-e's GitHub stats](https://github-readme-stats.vercel.app/api?username=horang-e&hide=contribs,prs&bg_color=657FA6&text_color=FFFFFF&title_color=FFFFFF)
-   
-   ![슬라이드4](https://user-images.githubusercontent.com/105104335/184386997-1295f9c9-2fd9-4f56-b271-a6d34c55c87c.png)
+   <div style="display:flex">
+   <img src="https://user-images.githubusercontent.com/105104335/184386997-1295f9c9-2fd9-4f56-b271-a6d34c55c87c.png" width="45%"/>
+   <img src="https://user-images.githubusercontent.com/105104335/184387076-a3807f2f-7370-4631-8a8e-7c548167bb51.png" width="45%"/></br>
+ <img src="https://github.com/user-attachments/assets/a9f5677a-8ab8-4e64-a9c7-8f4b1f6350b4" width="35%"/>
 
-    
-
-![슬라이드12](https://user-images.githubusercontent.com/105104335/184387076-a3807f2f-7370-4631-8a8e-7c548167bb51.png)
 
